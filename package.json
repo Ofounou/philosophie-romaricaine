@@ -1,0 +1,12 @@
+{
+  "name": "philosophie-romaricaine",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site musical de Ramsès24 avec commentaires persistants",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  }
+}

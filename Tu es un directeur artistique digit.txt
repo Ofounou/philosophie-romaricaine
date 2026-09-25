@@ -1,0 +1,446 @@
+Tu es un directeur artistique digital, UX/UI designer senior, développeur front-end créatif et concepteur d’expériences musicales immersives.
+
+Ta mission est de créer une plateforme web musicale exceptionnelle, originale et jamais vue pour mon album :
+
+PHILOSOPHIE ROMARICAINE
+Artiste : Ramsès24
+Concept : un univers musical futuriste, philosophique, intime, technologique et cinématographique.
+
+Je ne veux pas un simple lecteur musical, une simple landing page ou une copie de Spotify, Apple Music, SoundCloud, Bandcamp ou autre plateforme existante.
+
+Je veux une expérience artistique complète : une planète musicale interactive, un musée numérique vivant, un voyage dans l’esprit de Ramsès24. La plateforme doit être immédiatement reconnaissable et posséder une identité visuelle unique.
+
+==================================================
+1. TITRES DE L’ALBUM
+==================================================
+
+L’album principal contient ces 20 morceaux :
+
+01 — Omen
+02 — Heartbreak
+03 — Déroute
+04 — Only on the Night
+05 — Ramsès24
+06 — Ah bah wsh
+07 — On est pas pareil
+08 — 14 Février
+09 — Faux frère
+10 — Avant ton départ (Hommage au daron)
+11 — Paranormal R24
+12 — Who are you Bella ?
+13 — 無頓着 (Mutonchaku)
+14 — La vie est hard
+15 — La mélo 24
+16 — Ma_vie.html (La tech !)
+17 — ΩKLM (Who are you Ramsès)
+18 — Commoner
+19 — Macrovoid
+20 — Am-Stram-Gram (Savas ft Ramsès24)
+
+Prévoir également une zone séparée pour :
+
+- Carré (Bonus)
+
+==================================================
+2. CONCEPT CENTRAL
+==================================================
+
+Imagine que l’utilisateur n’ouvre pas un site, mais entre dans l’univers mental de Ramsès24.
+
+La plateforme doit fonctionner comme une carte interactive composée de plusieurs zones :
+
+- Le portail d’entrée ;
+- La planète Philosophie Romaricaine ;
+- Les chapitres émotionnels ;
+- Le portail nocturne ;
+- Le macrovoid ;
+- La zone bonus ;
+
+Chaque morceau doit être représenté par une planète, une porte, une constellation, une salle, un symbole ou un fragment de mémoire différent.
+
+Ne présente pas les titres comme une simple liste verticale. Transforme la tracklist en expérience narrative interactive.
+
+==================================================
+3. DIRECTION ARTISTIQUE
+==================================================
+
+Crée une esthétique originale mélangeant :
+
+- science-fiction poétique ;
+- interface futuriste ;
+- poésie urbaine ;
+- rêve nocturne ;
+- symboles mystérieux ;
+- textures cosmiques ;
+- noir profond ;
+- violet électrique ;
+- rouge émotionnel ;
+- or ancien ;
+- bleu nuit ;
+- blanc lumineux.
+
+L’identité visuelle doit évoquer une rencontre entre :
+
+- un journal intime numérique ;
+- une galerie d’art interactive ;
+- un rêve musical.
+
+Important :
+Ne surcharge pas l’écran. Le design doit être spectaculaire mais lisible, élégant, fluide et utilisable sur mobile.
+
+==================================================
+4. PAGE D’ACCUEIL
+==================================================
+
+Créer une page d’accueil mémorable avec :
+
+- le titre PHILOSOPHIE ROMARICAINE en très grand ;
+- le nom RAMSÈS24 ;
+- une animation lente de planète ou de portail ;
+- une phrase d’introduction :
+  « Bienvenue dans l’esprit de Ramsès24. »
+- un bouton principal :
+  « Entrer dans l’univers »
+- un bouton secondaire :
+  « Lancer l’album »
+- un indicateur mystérieux comme :
+  « Connexion à la philosophie romaricaine… »
+
+L’ouverture doit ressembler au démarrage d’un système inconnu.
+
+Prévoir une animation de chargement originale, par exemple :
+- des hiéroglyphes numériques ;
+- une constellation qui se forme ;
+- le nombre 24 qui apparaît ;
+- un portail qui s’ouvre ;
+- des fragments de phrases qui s’assemblent.
+
+==================================================
+5. CARTE INTERACTIVE DE L’ALBUM
+==================================================
+
+Créer une carte interactive appelée par exemple :
+
+« Le Cosmos R24 »
+
+Chaque titre doit être placé dans un environnement visuel particulier.
+
+Associer les morceaux à des ambiances :
+
+- Omen : prophétie, présage, porte sombre ;
+- Heartbreak : cœur fissuré, pluie rouge, espace émotionnel ;
+- Déroute : route brisée, panneaux contradictoires ;
+- Only on the Night : ville nocturne, lune, néons ;
+- Ramsès24 : identité, trône, symbole central ;
+- Ah bah wsh : énergie spontanée, rue, humour ;
+- On est pas pareil : miroir divisé, deux personnalités ;
+- 14 Février : souvenirs, amour, calendrier, rose fanée ;
+- Faux frère : masque, duplicité, ombres ;
+- Avant ton départ (Hommage au daron) : espace mémoriel, lumière chaude, archive familiale ;
+- Paranormal R24 : glitch, fantômes numériques, signaux inconnus ;
+- Who are you Bella ? : enquête, silhouette mystérieuse, interrogation ;
+- 無頓着 (Mutonchaku) : minimalisme japonais, calme, détachement ;
+- La vie est hard : ville verticale, pluie, obstacles, béton ;
+- La mélo 24 : piano, vibration, mélodie lumineuse ;
+- Ma_vie.html (La tech !) : code, terminal futuriste, fenêtre système ;
+- ΩKLM (Who are you Ramsès) : identité cachée, symbole Ω, miroir cosmique ;
+- Commoner : peuple, humanité, contraste entre roi et personne ordinaire ;
+- Macrovoid : immensité noire, vide spatial, vertige ;
+- Am-Stram-Gram (Savas ft Ramsès24) : jeu, choix, hasard, couleurs et mouvement.
+
+Ne mets pas tout le contenu à l’écran immédiatement. Fais découvrir l’album progressivement.
+
+==================================================
+6. LECTEUR MUSICAL
+==================================================
+
+Créer un lecteur audio élégant et original.
+
+Le lecteur doit comporter :
+
+- lecture et pause ;
+- morceau suivant et précédent ;
+- barre de progression ;
+- durée ;
+- volume ;
+- lecture aléatoire ;
+- répétition ;
+- affichage du titre ;
+- affichage de l’univers visuel du morceau ;
+- paroles synchronisées si elles sont ajoutées plus tard ;
+- visualiseur audio ;
+- bouton favori ;
+- ajout à une playlist personnelle.
+
+Le lecteur doit pouvoir rester visible pendant la navigation sans devenir gênant.
+
+Créer un mini-lecteur fixe et un lecteur immersif plein écran.
+
+Quand une chanson est lancée, l’environnement visuel doit changer selon son identité.
+
+Exemples :
+- Heartbreak colore l’écran en rouge sombre ;
+- Macrovoid ralentit l’interface et agrandit l’espace ;
+- Ma_vie.html affiche des éléments de code ;
+- Avant ton départ utilise une lumière chaude et respectueuse ;
+- Am-Stram-Gram devient plus ludique et dynamique.
+
+==================================================
+7. EXPÉRIENCE NARRATIVE
+==================================================
+
+Ne considère pas les 20 morceaux comme une simple playlist.
+
+Construis une narration en chapitres :
+
+CHAPITRE I — LES SIGNES
+- Omen
+- Heartbreak
+- Déroute
+- Only on the Night
+
+CHAPITRE II — L’IDENTITÉ
+- Ramsès24
+- Ah bah wsh
+- On est pas pareil
+- 14 Février
+- Faux frère
+
+CHAPITRE III — LES MÉMOIRES ET LES FANTÔMES
+- Avant ton départ (Hommage au daron)
+- Paranormal R24
+- Who are you Bella ?
+- 無頓着 (Mutonchaku)
+
+CHAPITRE IV — LE SYSTÈME
+- La vie est hard
+- La mélo 24
+- Ma_vie.html (La tech !)
+- ΩKLM (Who are you Ramsès)
+
+CHAPITRE V — LE VIDE ET LE JEU
+- Commoner
+- Macrovoid
+- Am-Stram-Gram (Savas ft Ramsès24)
+
+L’utilisateur doit sentir une progression psychologique :
+présage → douleur → identité → mémoire → technologie → vertige → libération.
+
+==================================================
+8. FONCTIONNALITÉS UNIQUES
+==================================================
+
+Propose et implémente des fonctionnalités originales, par exemple :
+
+- une carte qui évolue selon les morceaux écoutés ;
+- des fragments de phrases qui apparaissent après chaque écoute ;
+- un système de constellation personnelle ;
+- un « niveau de connexion R24 » ;
+- un journal intime généré à partir des morceaux écoutés ;
+- des portails cachés ;
+- des symboles à débloquer ;
+- un mode nuit ;
+- un mode « cérémonie » pour écouter l’album dans l’ordre ;
+- un mode « hasard cosmique » ;
+- des transitions cinématiques ;
+- une timeline de l’histoire de l’album ;
+- un mode casque ;
+- une expérience minimale sans texte ;
+- un espace où l’utilisateur choisit son humeur et reçoit un morceau ;
+- une salle secrète accessible après avoir écouté les 20 sons ;
+- un message final de Ramsès24 ;
+- une animation spéciale quand l’utilisateur termine l’album.
+
+Créer une fonctionnalité appelée :
+
+« Quelle version de toi écoutes-tu ? »
+
+L’utilisateur choisit une émotion :
+- amour ;
+- colère ;
+- solitude ;
+- nostalgie ;
+- motivation ;
+- confusion ;
+- curiosité ;
+- paix.
+
+La plateforme recommande alors un parcours de morceaux.
+
+==================================================
+9. IDENTITÉ DE RAMSÈS24
+==================================================
+
+Présenter Ramsès24 comme :
+
+- l’auteur ;
+- le créateur de l’univers ;
+- le guide du voyage ;
+- une identité entre humain, roi, artiste et personnage numérique.
+
+Ne pas inventer de biographie personnelle détaillée.
+
+Créer une section intitulée :
+
+« Qui est Ramsès24 ? »
+
+Avec un texte provisoire à personnaliser :
+
+« Ramsès24 construit un univers où les émotions, la technologie, les souvenirs et les questions d’identité se rencontrent. Philosophie Romaricaine est un voyage sonore à travers plusieurs états de l’esprit. »
+.
+
+==================================================
+10. HOMMAGE AU DARON
+==================================================
+
+Le morceau :
+« Avant ton départ (Hommage au daron) »
+
+doit avoir un espace particulier, sobre et respectueux.
+
+Créer une page mémorielle avec :
+
+- une lumière chaude ;
+- une animation lente ;
+- une phrase courte ;
+- un espace pour ajouter une photo ou un texte plus tard ;
+- aucune animation agressive ;
+- aucune esthétique horrifique.
+
+Texte provisoire :
+
+« Certaines absences ne disparaissent pas.
+Elles deviennent une partie de notre histoire. »
+
+Prévoir une zone éditable pour modifier ce texte.
+
+==================================================
+11. DESIGN RESPONSIVE
+==================================================
+
+La plateforme doit être parfaite sur :
+
+- ordinateur ;
+- tablette ;
+- téléphone ;
+- écran large ;
+- mode portrait ;
+- mode paysage.
+
+Sur mobile :
+
+- simplifier la carte ;
+- garder le lecteur accessible ;
+- utiliser des gestes tactiles ;
+- éviter les petits textes ;
+- rendre les boutons faciles à toucher ;
+- conserver l’identité visuelle.
+
+==================================================
+12. ACCESSIBILITÉ ET PERFORMANCE
+==================================================
+
+Prévoir :
+
+- contraste suffisant ;
+- navigation au clavier ;
+- textes alternatifs ;
+- boutons compréhensibles ;
+- option pour réduire les animations ;
+- chargement rapide ;
+- optimisation mobile ;
+- absence de blocage si les médias ne sont pas encore ajoutés ;
+- messages clairs lorsque les fichiers audio manquent.
+
+==================================================
+13. STRUCTURE TECHNIQUE
+==================================================
+
+Si tu peux générer du code, utilise une architecture moderne et propre, par exemple :
+
+- React ;
+- Next.js ;
+- TypeScript ;
+- Tailwind CSS ;
+- composants réutilisables ;
+- animations fluides ;
+- Framer Motion ou équivalent ;
+- Web Audio API pour le visualiseur ;
+- données de l’album stockées dans un fichier facilement modifiable.
+
+Ne dépends pas d’images protégées par le droit d’auteur.
+
+Utilise des éléments visuels générés en CSS, SVG ou formes abstraites originales.
+
+Prévoir des emplacements pour :
+
+- fichiers audio ;
+- pochettes ;
+- paroles ;
+- crédits ;
+- liens sociaux ;
+- biographies ;
+- vidéos ;
+- photos ;
+- bonus.
+
+Créer une structure de données claire pour les titres :
+
+- id ;
+- numéro ;
+- titre ;
+- artiste invité ;
+- chapitre ;
+- couleur ;
+- ambiance ;
+- description ;
+- fichier audio ;
+- paroles ;
+- visuel ;
+- statut verrouillé ou débloqué.
+
+==================================================
+14. CE QUE JE VEUX DE TOI
+==================================================
+
+Commence par réfléchir au concept global, puis fournis :
+
+1. Le nom officiel de la plateforme ;
+2. Le slogan ;
+3. La direction artistique ;
+4. La structure complète des pages ;
+5. Le parcours utilisateur ;
+6. La description des animations ;
+7. La structure de données de l’album ;
+8. Le design du lecteur audio ;
+9. Les fonctionnalités uniques ;
+10. Le code de la première version fonctionnelle ;
+11. Les instructions pour ajouter mes fichiers audio ;
+12. Les endroits où je pourrai ajouter les paroles et les images ;
+13. Les améliorations prévues pour une version 2.
+
+Si tu produis du code, le résultat doit être fonctionnel, propre, responsive et facilement modifiable.
+
+Ne te contente pas de décrire une idée. Construis une véritable première version exploitable.
+
+Le résultat doit donner l’impression que l’on entre dans un univers qui n’existait pas avant.
+
+Évite absolument :
+- les interfaces génériques ;
+- les cartes copiées de Spotify ;
+- les designs trop ordinaires ;
+- les animations inutiles ;
+- les textes inventés sur ma vie ;
+- les images protégées ;
+- les promesses impossibles ;
+- le remplissage décoratif.
+
+Objectif final :
+
+Créer la plateforme musicale la plus mémorable possible pour l’album :
+
+PHILOSOPHIE ROMARICAINE
+par RAMSÈS24
+
+Une expérience que l’on ne se contente pas de visiter :
+une expérience que l’on ressent.
