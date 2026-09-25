@@ -1,0 +1,17 @@
+{
+  "name": "Philosophie Romaricaine — Ramsès24",
+  "short_name": "Philosophie R24",
+  "description": "L'univers musical et philosophique de Ramsès24.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#100907",
+  "theme_color": "#100907",
+  "icons": [
+    {
+      "src": "/soleil-favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

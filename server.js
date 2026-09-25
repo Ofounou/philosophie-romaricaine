@@ -35,6 +35,7 @@ const mimeTypes = {
   '.png': 'image/png',
   '.svg': 'image/svg+xml',
   '.mp4': 'video/mp4',
+  '.webmanifest': 'application/manifest+json; charset=utf-8',
 };
 
 function sendJson(response, statusCode, payload) {
