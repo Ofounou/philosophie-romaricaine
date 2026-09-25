@@ -5,7 +5,8 @@ const { DatabaseSync } = require('node:sqlite');
 
 const root = __dirname;
 const port = Number(process.env.PORT) || 8000;
-const database = new DatabaseSync(path.join(root, 'comments.db'));
+const databasePath = process.env.DATABASE_PATH || path.join(root, 'comments.db');
+const database = new DatabaseSync(databasePath);
 database.exec(`
   CREATE TABLE IF NOT EXISTS comments (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -136,7 +137,7 @@ const server = http.createServer(async (request, response) => {
 
 server.listen(port, () => {
   console.log(`Philosophie Romaricaine available at http://localhost:${port}`);
-  console.log(`Comments database: ${path.join(root, 'comments.db')}`);
+  console.log(`Comments database: ${databasePath}`);
 });
 
 process.on('SIGINT', () => {

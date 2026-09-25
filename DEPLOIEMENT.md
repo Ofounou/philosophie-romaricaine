@@ -18,9 +18,10 @@ Utiliser un hebergeur qui accepte une application Node (Render, Railway, Fly.io 
 
 - commande de demarrage : `npm start`
 - variable `PORT` fournie par l'hebergeur
+- variable `DATABASE_PATH` : `/var/data/comments.db`
 - stockage disque persistant pour le fichier `comments.db`
 
-Sans disque persistant, les commentaires fonctionneront mais risquent d'etre effaces lors d'un redeploiement ou redemarrage. Sur Render, par exemple, il faut ajouter un disque persistant monte dans le dossier du projet, ou adapter le chemin de la base dans `server.js`.
+Sans disque persistant, les commentaires fonctionneront mais risquent d'etre effaces lors d'un redeploiement ou redemarrage. Sur Render, ajoute un disque monte sur `/var/data` et definis `DATABASE_PATH=/var/data/comments.db` dans les variables d'environnement.
 
 L'API utilisee par le site est :
 
